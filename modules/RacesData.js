@@ -35,7 +35,7 @@ class RacesData {
             "Name": "Human",
             "Description": "Humans come in a broad variety of shapes and sizes; the Game Master must decide what sorts of Humans live in the game world. An average Human male in good health stands around six feet tall and weighs about 175 pounds. Most Humans live around 75 years.",
             "Restrictions": "Humans may be any single class. They have no minimum or maximum ability score requirements.",
-            "SpecialAbilities": "Humans learn unusually quickly, gaining a bonus of 10% to all experience points earned.",
+            "SpecialAbilities": "Humans learn unusually quickly, gaining a bonus of 10% (Optional rule of 20% experience gain) to all experience points earned.",
             "ThiefAbilityAdjustments": "",
             "SavingThrows": "Humans are the “standard,” and thus have no saving throw bonuses.",
             "InitialLevels": "",
